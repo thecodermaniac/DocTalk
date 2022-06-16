@@ -4,6 +4,7 @@ import Footer from '../components/Footer';
 import Heading from '../components/Heading';
 
 import "../styles/Home.css";
+import Services from '../components/Services';
 
 const Home = () => {
   return (
